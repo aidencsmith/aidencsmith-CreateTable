@@ -1,1 +1,1 @@
-write your sql statement in a single line in the problem1.sql file.
+CREATE TABLE SONG(TITLE varchar(100) NOT NULL, ARTIST varchar(100) NOT NULL);
